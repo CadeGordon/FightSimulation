@@ -96,18 +96,7 @@ namespace FightSimulation
             currentMonster2 = GetMonster(currentMonsterIndex);
         }
 
-        //dont for get to delete this !!!!!!!!!
-        int[] numbers = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-        void IntArray()
-        {
-
-            for (int num = 0; num < 10 ; ++num)
-            {
-                Console.WriteLine(numbers[num]);
-            }
-
-
-        }
+        
 
 
 
